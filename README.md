@@ -1,7 +1,6 @@
 <div align="center">
 
 <br />
-<img src="https://raw.githubusercontent.com/your-org/apex-framework/main/docs/assets/logo.png" alt="Apex Logo" width="120" height="120">
 
 # Apex API Framework
 
